@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList should render 1`] = `
+<DocumentFragment>
+  <div
+    class="TodoList"
+  >
+    <div>
+      <div
+        class="NewTodoForm"
+      >
+        <form>
+          <label
+            for="task"
+          >
+            Task: 
+          </label>
+          <input
+            name="task"
+            placeholder="Enter Task Here"
+            type="text"
+            value=""
+          />
+          <button>
+            Submit
+          </button>
+        </form>
+      </div>
+    </div>
+    <div>
+      <div
+        class="Todo"
+      >
+        <span
+          class="Todo-task"
+        >
+          eat food
+        </span>
+        <button
+          class="Todo-delete"
+        >
+          X
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
