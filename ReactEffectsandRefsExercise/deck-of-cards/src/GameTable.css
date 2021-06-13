@@ -1,0 +1,8 @@
+.Cardpile{
+    background-color: green;
+}
+
+.Cardpile-pile {
+    margin:auto;
+    width:50%;
+}
